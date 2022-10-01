@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Eai BLZ! eu sou Bruno Rodrigues.
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brunno_roodriiguees/)
+[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-rodrigues-ni/)
+
+
+![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoRodrigues&show_icons=true&theme=radical)
+
+### SE ALGUEM JA FEZ, EU TAMBEM POSSO FAZER!
+### SE NINGUEM FEZ, EU SEREI O PRIMEIRO!
